@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: c4f6b6327f98664418657cd9fd10abd0
+timeCreated: 1454414405
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chara_01_0
+    21300002: chara_01_1
+    21300004: chara_01_2
+    21300006: chara_01_3
+    21300008: chara_01_4
+    21300010: chara_01_5
+    21300012: chara_01_6
+    21300014: chara_01_7
+    21300016: chara_01_8
+    21300018: chara_01_9
+    21300020: chara_01_10
+    21300022: chara_01_11
+    21300024: chara_01_12
+    21300026: chara_01_13
+    21300028: chara_01_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chara_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32.399994}
+        - {x: -15, y: 5.399994}
+        - {x: -12, y: -3.600006}
+        - {x: 15, y: -3.600006}
+        - {x: 15, y: 30.399994}
+        - {x: 14, y: 32.399994}
+    - name: chara_01_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32.399994}
+        - {x: -16, y: -3.600006}
+        - {x: 12, y: -3.600006}
+        - {x: 13, y: -0.6000061}
+        - {x: 16, y: 12.399994}
+        - {x: 16, y: 32.399994}
+    - name: chara_01_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32.399994}
+        - {x: -15, y: 5.399994}
+        - {x: -12, y: -3.600006}
+        - {x: 15, y: -3.600006}
+        - {x: 15, y: 30.399994}
+        - {x: 14, y: 32.399994}
+    - name: chara_01_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32.4}
+        - {x: -16, y: 32.4}
+        - {x: -16, y: -3.5999985}
+        - {x: 13, y: -3.5999985}
+        - {x: 14, y: -2.5999985}
+        - {x: 14, y: 31.400002}
+    - name: chara_01_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32.4}
+        - {x: -15, y: 28.400002}
+        - {x: -15, y: 2.4000015}
+        - {x: -12, y: -3.5999985}
+        - {x: 16, y: -3.5999985}
+        - {x: 16, y: 19.400002}
+        - {x: 10, y: 32.4}
+    - name: chara_01_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 32.4}
+        - {x: -16, y: 32.4}
+        - {x: -16, y: 5.4000015}
+        - {x: -13, y: -3.5999985}
+        - {x: 14, y: -3.5999985}
+        - {x: 14, y: 24.400002}
+        - {x: 13, y: 31.400002}
+    - name: chara_01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32.4}
+        - {x: -16, y: 2.4000015}
+        - {x: -12, y: -3.5999985}
+        - {x: 15, y: -3.5999985}
+        - {x: 15, y: 27.400002}
+        - {x: 11, y: 32.4}
+    - name: chara_01_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32.4}
+        - {x: -17, y: 2.4000015}
+        - {x: -12, y: -3.5999985}
+        - {x: 16, y: -3.5999985}
+        - {x: 16, y: 25.400002}
+        - {x: 11, y: 32.4}
+    - name: chara_01_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32.4}
+        - {x: -16, y: 3.4000015}
+        - {x: -12, y: -3.5999985}
+        - {x: 15, y: -3.5999985}
+        - {x: 15, y: 26.400002}
+        - {x: 11, y: 32.4}
+    - name: chara_01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32.4}
+        - {x: -17, y: 26.400002}
+        - {x: -17, y: 1.4000015}
+        - {x: -13, y: -3.5999985}
+        - {x: 15, y: -3.5999985}
+        - {x: 15, y: 32.4}
+    - name: chara_01_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32.4}
+        - {x: -13, y: 32.4}
+        - {x: -17, y: 26.400002}
+        - {x: -17, y: -3.5999985}
+        - {x: 12, y: -3.5999985}
+        - {x: 14, y: -1.5999985}
+        - {x: 16, y: 4.4000015}
+        - {x: 16, y: 25.400002}
+    - name: chara_01_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32.4}
+        - {x: -17, y: -2.5999985}
+        - {x: -15, y: -3.5999985}
+        - {x: 15, y: -3.5999985}
+        - {x: 15, y: 32.4}
+    - name: chara_01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32.4}
+        - {x: -16, y: 31.4}
+        - {x: -16, y: -3.6000004}
+        - {x: 13, y: -3.6000004}
+        - {x: 16, y: -2.6000004}
+        - {x: 16, y: 25.4}
+        - {x: 13, y: 32.4}
+    - name: chara_01_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32.4}
+        - {x: -15, y: 31.4}
+        - {x: -16, y: 14.4}
+        - {x: -16, y: -3.6000004}
+        - {x: 12, y: -3.6000004}
+        - {x: 13, y: -0.6000004}
+        - {x: 16, y: 12.4}
+        - {x: 16, y: 32.4}
+    - name: chara_01_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32.4}
+        - {x: -16, y: 31.4}
+        - {x: -16, y: -3.6000004}
+        - {x: 13, y: -3.6000004}
+        - {x: 16, y: -2.6000004}
+        - {x: 16, y: 25.4}
+        - {x: 13, y: 32.4}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
